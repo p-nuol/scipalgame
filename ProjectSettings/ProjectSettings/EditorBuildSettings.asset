@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CreditInfo.unity
+    guid: 11a1681ba823e7a49952691e97b3519a
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 9f968a79d0a15154b9909845973b8c1c
+  - enabled: 1
+    path: Assets/Scenes/ObjectLand.unity
+    guid: 77f3382386ddbbe4193734c81946c3b3
+  - enabled: 1
+    path: Assets/Scenes/HumanLand.unity
+    guid: 497ed457c5a977146867fd703ce75417
+  - enabled: 1
+    path: Assets/Scenes/AnimalLand.unity
+    guid: 0c7c6cefbd5619245acc8bdd4556dcee
+  - enabled: 1
+    path: Assets/PlantLand/Scenes/Plant.unity
+    guid: 5a3fccd0a57b0cf488af1fd8d3c651da
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 01be0a37169c5d54cacc26c01093aeeb
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 7fd69a608f6a1e9468ce1f83f262c6d7
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: 0da538ff861b0584ebb4490b1637cfc7
+  - enabled: 1
+    path: Assets/Scenes/PlantLandTutorial.unity
+    guid: 77be9286c066e614e8d99f1e42af9b9f
+  - enabled: 1
+    path: Assets/Scenes/AnimalLandTutorial.unity
+    guid: 1f9e93fb622e2864aa83cec7c2ce843e
+  - enabled: 1
+    path: Assets/Scenes/ObjectLandTutorial.unity
+    guid: 0233dbf9418589648ac3ca2ff9d9a28e
+  - enabled: 1
+    path: Assets/Scenes/HumanLandTutorial.unity
+    guid: e91d9d1ef25a9cd45909be6be29f313c
+  m_configObjects: {}
